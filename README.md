@@ -6,6 +6,6 @@ This is an introduction in using OpenCV in Android.
 
 ## Screenshots
 
-![screenshot]('test.png')
+![screenshot](test.png)
 
-![screenshot]('comp.png')
+![screenshot](comp.png)
